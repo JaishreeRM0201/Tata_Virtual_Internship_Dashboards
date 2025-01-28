@@ -4,7 +4,6 @@
 - [Data Sources](#data-sources)
 - [Tools Used](#tools-used)
 - [Key Objectives](#key-objectives)
-- [Data Preparation](#data-preparation)
 - [Findings](#findings)
 - [Recommendations](#recommendations)
 
@@ -22,11 +21,11 @@ The dataset was provided on Forage by the company
 - Excel
 
 ### Tools Used
-- Excel
+- Microsoft Excel
 - Power BI
 - Power Query
 - Dax Formulas
-- Word
+- Microsoft Word
 
 ### Key Objectives
 Task 1: Developing Key Business Questions
@@ -51,27 +50,26 @@ Task 4: Data Analysis and Executive Presentation
      
    
 ### Findings
-#### 1. Sales Report:
-   ![Sales Overview](https://github.com/user-attachments/assets/8dad4262-1a18-49e1-bff8-630d4fded879)
+#### 1. Revenue report:
+   ![Revenue](https://github.com/JaishreeRM0201/Tata_Virtual_Internship_Dashboards/blob/main/Revenue(2011).png)
 
-  - From the graph, we can observe that the UK has the highest loyalty points, indicating strong customer engagement, while the UAE has the lowest points, suggesting potential areas for improvement in customer loyalty initiatives
-  - From the chart, we can see that Floral Wallpaper, Porcelain Dinner Set, and ProCarpenter Toolkit have the highest total quantity purchased, indicating that it is the best-selling product.
-  - We can see that France has the largest portion of the pie, indicating that it has the highest median sales among all countries.
-  -  In contrast, Australia and UAE have the smallest slices, reflecting lower typical sales performance.
-  - As we can see, the line frequently rises and falls, indicating a high level of fluctuation in median sales over time. This suggests that sales have not followed a stable upward or downward trend, but rather have experienced volatility.
-   
-#### 2. Profit Report
-   ![Profit Overview](https://github.com/user-attachments/assets/ba723a36-006f-4907-aeb0-e56112ab9ce1)
+#### 2. Countries with the highest revenue:
+   ![Highest Revenue](https://github.com/JaishreeRM0201/Tata_Virtual_Internship_Dashboards/blob/main/Highest%20Revenue.png)
 
-- The highest net revenue was gained by the Electric water heater.
-- The USA had the highest Yearly Profit Margin, while the UAE had the lowest.
-- The Yearly Profit Margin peaked thrice in August, showed a decline in the entire month of September, and stayed on top for a while during October.
+#### 3. Top customers:
+   ![Customers](https://github.com/JaishreeRM0201/Tata_Virtual_Internship_Dashboards/blob/main/Top%2010%20Customers.png)
+
+#### 4. Regions with high demand:
+   ![Revenue](https://github.com/JaishreeRM0201/Tata_Virtual_Internship_Dashboards/blob/main/High%20Demand.png)
+
   
+### Script
+![Script](https://github.com/JaishreeRM0201/Tata_Virtual_Internship_Dashboards/blob/main/Script.docx)
+
 ### Recommendations
-- Tailor the loyalty programs according to regional performance.
--  Countries with lower points may benefit from targeted marketing strategies or enhanced loyalty incentives to boost customer engagement.
-- The company can use top-selling products to guide inventory management and promotional efforts, ensuring that high-demand products are always available.
-- Investigate the cause of fluctuations in the median sales trend and look for ways to smooth out the sales trend.
-- Maximize Revenue from Top-Selling Products.
-- Improve Profit Margins in Low-Performing Regions (UAE).
-- Address the Decline in Profit Margins (September)
+1.	Revenue trends suggest a predictable seasonal spike during the holiday season, which can be leveraged for next year’s planning.
+2.	Netherlands, Ireland, and Germany  are top-performing countries in both revenue and demand, making them strategic targets for further investment.
+3.	Our top 10 customers drive a significant portion of revenue, and personalized engagement will ensure continued satisfaction and retention.
+4.	Several regions outside of the UK show high product demand, which presents great opportunities for market expansion.
+
+
